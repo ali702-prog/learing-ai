@@ -1,0 +1,29 @@
+WHY USE PYTHON?
+
+Python is a popular programming language used for:
+- AI and Machine Learning
+- Data Science
+- Web Development
+- Automation
+- Software Development
+
+ADVANTAGES:
+- Easy to learn and read
+- Great for AI and Machine Learning
+- Many useful libraries
+- Large community
+- Works on Windows, macOS, and Linux
+- Fast to develop with
+
+DISADVANTAGES:
+- Slower than C++ and some other languages
+- Can use more memory
+- Not the best choice for mobile apps
+- Not ideal for very high-performance software
+
+CONCLUSION:
+Python is easy, powerful, and especially useful for AI and Machine Learning.
+
+
+What is pseudocode?
+Pseudocode is a simple way of writing the steps of a program using normal language. It is not actual Python code. It helps us plan a program before coding it.
