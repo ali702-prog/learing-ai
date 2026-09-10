@@ -1,0 +1,7 @@
+2026-09-10 07:06:32,740 - Method: GET | Path: /docs | Status: 200
+2026-09-10 07:06:32,802 - Method: GET | Path: /openapi.json | Status: 200
+2026-09-10 07:07:41,229 - Method: POST | Path: /person | Status: 200
+2026-09-10 07:07:42,603 - Method: POST | Path: /person | Status: 200
+2026-09-10 07:08:13,388 - Method: POST | Path: /person | Status: 200
+2026-09-10 07:08:33,459 - Method: POST | Path: /person | Status: 200
+2026-09-10 07:09:01,206 - Method: GET | Path: /person | Status: 200
