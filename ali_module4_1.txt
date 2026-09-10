@@ -1,0 +1,37 @@
+SQL Summary
+
+What is SQL? SQL stands for Structured Query Language. It is a language
+used to communicate with relational databases. A database stores
+organized information such as users, products, employees, orders, or
+tasks. SQL allows us to create, read, update, and delete this data.
+
+Why do we use SQL? We use SQL to manage and work with data stored in
+databases. It can be used to: - Create databases and tables. - Add new
+data. - Search and retrieve data. - Update existing data. - Delete
+data. - Sort and filter information. - Connect related information from
+different tables.
+
+For example: SELECT * FROM users;
+
+This SQL command asks the database to return all records from the users
+table.
+
+Who made SQL? SQL was developed at IBM in the early 1970s by Donald D.
+Chamberlin and Raymond F. Boyce. It was originally called SEQUEL
+(Structured English Query Language) and was created for working with
+IBM’s relational database research.
+
+Common SQL Commands SELECT - Read data from a database. INSERT - Add new
+data. UPDATE - Change existing data. DELETE - Remove data. CREATE -
+Create a database object such as a table.
+
+Example: SELECT name FROM persons;
+
+This asks the database to return the name column from the persons table.
+
+Summary SQL is a language for communicating with relational databases.
+We use it because applications need an efficient way to store, retrieve,
+update, and manage structured data. SQL is widely used in software
+development, websites, business systems, and data analysis. Popular
+relational database systems that use SQL include PostgreSQL, MySQL,
+Microsoft SQL Server, SQLite, and Oracle Database.
